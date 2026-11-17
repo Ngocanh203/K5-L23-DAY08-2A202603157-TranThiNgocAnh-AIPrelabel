@@ -1,2 +1,3 @@
 step,images,minutes,note
 gold_manual,4,20,Gán tay và rà soát 4 ảnh gold
+batch_review,24,60,Review và sửa pre-label trên 24 ảnh
