@@ -1,0 +1,9 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,13,thua,TranThiNgocAnh,"Box three_wheeler chỉ bao phần mui của xe chính; trùng đối tượng với box 17"
+img_003.jpg,16,thua,TranThiNgocAnh,"Box three_wheeler bao phần thùng và bánh của cùng xe đã có box 17"
+img_003.jpg,12,sai_lop,TranThiNgocAnh,"Box three_wheeler ở phía phải sau xe chính đang bao xe máy hai bánh"
+img_003.jpg,27,thua,TranThiNgocAnh,"Box person nằm trên túi màu hồng và hàng hóa trong thùng xe; không thấy người tương ứng"
+img_006.jpg,,khong,TranThiNgocAnh,"Chưa thấy lỗi rõ ràng qua ảnh overlay; vùng đông và nhãn chồng nhau hạn chế khả năng kiểm tra"
+img_014.jpg,,khong,TranThiNgocAnh,"Chưa thấy lỗi rõ ràng qua ảnh overlay; các vật nhỏ ở xa cần đối chiếu quy tắc kích thước"
+img_031.jpg,459,sai_vi_tri_kich_thuoc,TranThiNgocAnh,"Box bicycle cắt mất phần giỏ chở hàng gắn trên xe ở bên trái; cần đối chiếu mục 4 và ca xe đạp chở hàng trong guideline"
+img_035.jpg,,khong,TranThiNgocAnh,"Chưa thấy lỗi rõ ràng qua ảnh overlay; vùng xa có nhiều nhãn chồng nhau"
