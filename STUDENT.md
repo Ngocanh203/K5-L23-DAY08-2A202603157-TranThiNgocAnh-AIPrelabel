@@ -5,7 +5,7 @@
 - Lớp: L2A 
 - Tài khoản GitHub: Ngocanh203
 - Repo bài nộp: https://github.com/Ngocanh203/K5-L23-DAY08-2A202603157-TranThiNgocAnh-AIPrelabel
-- Commit chốt bài: cập nhật sau khi hoàn tất kiểm tra
+- Commit chốt bài: c8ae012
 - Máy: Windows 10, RAM 16 GB, WSL2 Ubuntu; chạy CPU, không dùng CUDA/MPS
 - CVAT (Docker): v2.74.1
 
